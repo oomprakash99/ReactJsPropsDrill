@@ -29,7 +29,7 @@ function Call2(){
     const {arrData} = useContext(pack);
     return<div>
         <h1>Under Second calling function</h1>
-        <h2>Calling the Main function's data which is an array : {arrData}</h2>
+        <h2>Calling the Main function's data which is an array :</h2>
         <ul>
             {arrData.map((value,index)=>(
                 <li key={index} >{value}</li>
